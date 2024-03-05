@@ -1,0 +1,5 @@
+pytesseract
+Pillow # For handling images with pytesseract (tenetive)
+re 
+numpy
+cv2
